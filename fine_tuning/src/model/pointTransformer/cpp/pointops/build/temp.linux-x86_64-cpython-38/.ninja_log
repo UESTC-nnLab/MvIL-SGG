@@ -1,0 +1,16 @@
+# ninja log v5
+1	9807	1747366144900531330	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/ballquery/ballquery_cuda.o	a554bd2c16d7e566
+1	10619	1747366145716508300	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	d950b04865eb1d13
+1	11929	1747366147024471419	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	36c46a2077a91790
+0	12909	1747366148004443825	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	ddae949a68afae20
+9816	19297	1747366154392264696	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda.o	38ce7580fc9b1b96
+12909	24209	1747366159308127703	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	1bcac608349945d6
+1	27274	1747366162356043142	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	1ad59c2398e2ea54
+2	27634	1747366162736032618	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	7a52f2b776ba265a
+1	28156	1747366163260018115	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/ballquery/ballquery_cuda_kernel.o	e349bfe891ab649c
+0	30076	1747366165179965046	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	973c65d53cc9f882
+24209	33584	1747366168683868483	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	5d7147b6c47e5b5c
+11929	34783	1747366169871835828	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	b311c9b850d36074
+10619	37137	1747366172239770867	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda_kernel.o	73a4aff8ae467af2
+19297	41186	1747366176287660205	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	cc50ffdc91c8d234
+27274	46700	1747366181803510196	/home/honsen/honsen/openpoints-master/cpp/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	ef5ac18f00ca14f8

@@ -1,0 +1,10 @@
+# ninja log v5
+0	10359	1747364460940266156	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/ball_query.o	f8f3de7be43ddb52
+1	10427	1747364461000266838	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/interpolate.o	d4e367f801128e1
+0	11608	1747364462188280282	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/group_points.o	75eec791cb85cad0
+0	11659	1747364462240280869	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/sampling.o	7a962b11f799eb4
+2	22636	1747364473208402930	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/pointnet2_api.o	3063950dc858c890
+2	23723	1747364474308414966	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/interpolate_gpu.o	fbf7ef53db05868e
+0	23736	1747364474320415097	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/ball_query_gpu.o	4fcaa77084fa3253
+1	24820	1747364475404426923	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/group_points_gpu.o	4a7bb5952083fd5e
+10378	30882	1747364481464492379	/home/honsen/honsen/openpoints-master/cpp/pointnet2_batch/build/temp.linux-x86_64-cpython-38/src/sampling_gpu.o	4540409fce131f6b
